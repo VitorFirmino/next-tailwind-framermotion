@@ -26,4 +26,8 @@ $ yarn
 $ yarn dev
 ```
 
+
+![Previw](https://user-images.githubusercontent.com/69886760/109550463-14fdaf00-7aae-11eb-8321-bf342a071c86.gif)
+
+
 We'll build a lightweight, animated & responsive small website.
